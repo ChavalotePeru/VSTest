@@ -10,6 +10,13 @@ namespace VSTest
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("mensaje prueba 1.");
+
+            Console.WriteLine("mensaje prueba 2.");
+
+            Console.WriteLine("mensaje prueba 3.");
+
         }
     }
 }
